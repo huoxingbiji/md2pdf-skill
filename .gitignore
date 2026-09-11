@@ -1,9 +1,12 @@
 node_modules/
 __pycache__/
+.venv/
+.pytest_cache/
 *.py[cod]
 *.pdf
 *.png
 tmp/
+dist/
 .env
 .*.tmp.pdf
 .*.post.pdf
