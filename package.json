@@ -1,0 +1,16 @@
+{
+  "name": "md2pdf-skill",
+  "version": "1.2.0",
+  "description": "Quality-gated Markdown to PDF converter with clickable TOC, syntax highlighting, KaTeX and Mermaid",
+  "type": "module",
+  "main": "convert.mjs",
+  "scripts": {
+    "convert": "node convert.mjs"
+  },
+  "dependencies": {
+    "highlight.js": "^11.12.0",
+    "katex": "^0.16.22",
+    "marked": "^14.0.0",
+    "puppeteer": "^25.10.0"
+  }
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="120" viewBox="0 0 640 120">
+  <rect width="640" height="120" rx="16" fill="#f0f7fb"/>
+  <rect x="18" y="18" width="604" height="84" rx="12" fill="#1b4965"/>
+  <text x="320" y="70" text-anchor="middle" font-family="Microsoft YaHei, sans-serif" font-size="26" fill="#ffffff">本地图片加载测试</text>
+</svg>
